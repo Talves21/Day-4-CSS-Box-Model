@@ -1,0 +1,21 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+
+.box1{
+    width: 300px;
+    padding: 30px;
+    margin: 10px;
+    display: inline-block;
+    border: 4px dashed purple;
+    vertical-align: top;
+}
+
+.box2{
+    width: 200px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    border: 2px solid black;
+    vertical-align: top;
+}

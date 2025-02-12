@@ -1,0 +1,19 @@
+.box1{
+    width: 200px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    box-sizing: content-box;
+    vertical-align: top;
+}
+
+.box2{
+    width: 200px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+}

@@ -1,0 +1,18 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+
+.card1{
+    width: 250px;
+    padding: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-right: -30px;
+}
+
+.card2{
+    width: 250px;
+    padding: 30px;
+    border: 3px dashed black;
+    display: inline-block;
+}
